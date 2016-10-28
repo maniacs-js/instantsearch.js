@@ -50,7 +50,7 @@
     "dmd": "^2.1.1",
     "doctoc": "^1.2.0",
     "enzyme": "^2.5.1",
-    "eslint": "^3.8.1",
+    "eslint": "^3.9.0",
     "eslint-config-algolia": "^6.0.1",
     "eslint-import-resolver-webpack": "^0.6.0",
     "eslint-plugin-import": "^2.0.1",
